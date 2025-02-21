@@ -62,6 +62,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Serverless Computing & Kubernetes
 - Capstone Project - II
 - Software Engineering
+- Basic Of Ethical Hacking
 
 ### **Semester 6:**
 
