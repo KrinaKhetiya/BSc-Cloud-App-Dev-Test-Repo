@@ -33,6 +33,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Database Management Systems (SQL, NoSQL)
 - Operating Systems
 - Linux OS
+- Advance web Development
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development 
 - Version Control (Git hub)
