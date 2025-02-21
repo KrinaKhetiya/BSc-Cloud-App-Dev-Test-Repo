@@ -45,6 +45,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Data Structures & Algorithms
 - API Development & Microservices
 - Software Engineering Principles
+- Machine Learning
 - Advance of Java Programming
 
 ### **Semester 4:**
