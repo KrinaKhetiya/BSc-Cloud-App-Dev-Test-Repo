@@ -35,7 +35,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Linux OS
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development 
-- Version Control
+- Version Control (Git hub)
 
 ### **Semester 3:**
 
