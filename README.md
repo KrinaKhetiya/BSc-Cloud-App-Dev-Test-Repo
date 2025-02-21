@@ -44,6 +44,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Data Structures & Algorithms
 - API Development & Microservices
 - Software Engineering Principles
+- Advance of Java Programming
 
 ### **Semester 4:**
 
@@ -53,6 +54,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Big Data & Analytics
 - Capstone Project - I
 - Human-Computer Interaction(HCI)
+- Microprocessor
 
 ### **Semester 5:**
 
